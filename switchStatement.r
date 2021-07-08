@@ -6,7 +6,7 @@ x <- switch(
     "9"="Good morning",
     "12"="Good Afternoon",
     "18"="Good Evening",
-    "21"=""
+    "21"="Good night"
 )
  
 print(x)
