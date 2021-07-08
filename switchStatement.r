@@ -3,7 +3,7 @@ b <- "8"
  
 x <- switch(
     paste(a,b,sep=""),
-    "9"="",
+    "9"="Good morning",
     "12"="Good Afternoon",
     "18"="Good Evening",
     "21"=""
